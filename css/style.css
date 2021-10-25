@@ -1,4 +1,27 @@
 body {
-  background-color: blue;
-  color: black;
+  background-color: bisque;
+  padding: 30px;
+  background-image: url("/img/woman-570883_960_720.webp");
+}
+
+.block {
+  height: 500px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #000;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  margin-top: 50px;
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+  color: brown;
 }
